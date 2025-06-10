@@ -2,7 +2,7 @@
 
 Selamat datang di repositori organisasi **Capstone Adopt Pet**!
 
-Project capstone Coding Camp powered by DBS Foundation dengan tujuan membangun platform adopsi hewan peliharaan berbasis web yang didukung dengan machine learning ( sistem rekomendasi & klasifikasi gambar. Proyek ini bertujuan menyediakan serta mempermudah proses pencarian dan adopsi hewan secara digital, dengan antarmuka yang ramah pengguna.
+Project capstone Coding Camp powered by DBS Foundation dengan tujuan membangun platform adopsi hewan peliharaan berbasis web yang didukung dengan machine learning ( sistem rekomendasi & klasifikasi gambar ). Proyek ini bertujuan menyediakan serta mempermudah proses pencarian dan adopsi hewan secara digital, dengan antarmuka yang ramah pengguna.
 
 ---
 
@@ -24,8 +24,8 @@ Project capstone Coding Camp powered by DBS Foundation dengan tujuan membangun p
 
 - 🔒 **ml1.0** – Berisi model machine learning **sistem rekomendasi** dengan metode dan alur kerja yang digunakan, serta beberapa file yang diperlukan.
 - 🔒 **ml2.0** – Berisi model machine learning **klasifikasi gambar** dengan metode dan alur kerja yang digunakan, serta beberapa file yang diperlukan.
-- 🔒 **backendcapstone** – API backend project menggunakan PHP.
-- 🔒 **frontendcapstone** – Tampilan antarmuka pengguna menggunakan JavaScript.
+- 🔒 **backendcapstone** – Berisi API backend project menggunakan PHP.
+- 🔒 **frontendcapstone** – Berisi penjelasan tampilan antarmuka pengguna menggunakan JavaScript serta metode yang digunakan.
 
 ---
 
