@@ -1,6 +1,6 @@
-# 🐾 Capstone Adopt Pet
+# 🐾 Capstone Adopt House
 
-Selamat datang di repositori organisasi **Capstone Adopt Pet**!
+Selamat datang di repositori organisasi **Capstone Adopt House**!
 
 Project capstone Coding Camp powered by DBS Foundation yang dikerjakan oleh kelompok CC25-CF162, dengan tujuan membangun platform adopsi hewan peliharaan berbasis web yang didukung dengan machine learning (sistem rekomendasi & klasifikasi gambar). Proyek ini bertujuan menyediakan serta mempermudah proses pencarian dan adopsi hewan secara digital, dengan antarmuka yang ramah pengguna.
 
