@@ -1,3 +1,5 @@
+![Adopt House](https://github.com/user-attachments/assets/bf1e7ca9-e484-42de-82ed-9fed49246273)
+
 # 🐾 Capstone Adopt House
 
 Selamat datang di repositori organisasi **Capstone Adopt House**!
